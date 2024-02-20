@@ -1,5 +1,5 @@
 {
-  "name": "z-com",
+  "name": "next14-sns",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@faker-js/faker": "^8.2.0",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.10",
     "next": "^14",
